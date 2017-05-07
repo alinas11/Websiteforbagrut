@@ -1,0 +1,186 @@
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\ApplicationInsights.config
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\csc.exe
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\csc.exe.config
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\csc.rsp
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\csi.exe
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\csi.rsp
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\System.AppContext.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\System.IO.FileSystem.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\vbc.exe
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\vbc.exe.config
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\vbc.rsp
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\VBCSCompiler.exe
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Donationwebsite.dll.config
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Donationwebsite.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Donationwebsite.pdb
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Antlr3.Runtime.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.Web.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.ApplicationInsights.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Newtonsoft.Json.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\System.Web.Optimization.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\WebGrease.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\System.Web.Optimization.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Antlr3.Runtime.pdb
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Newtonsoft.Json.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.ApplicationInsights.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\bin\Microsoft.AI.Web.xml
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\obj\Debug\Donationwebsite.csprojResolveAssemblyReference.cache
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\obj\Debug\Donationwebsite.dll
+c:\users\alina\documents\visual studio 2017\Projects\Donationwebsite\Donationwebsite\obj\Debug\Donationwebsite.pdb
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\ApplicationInsights.config
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\csc.exe
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\csc.exe.config
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\csc.rsp
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\csi.exe
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\csi.rsp
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\vbc.exe
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\vbc.exe.config
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\vbc.rsp
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Donationwebsite.dll.config
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Donationwebsite.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Donationwebsite.pdb
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Antlr3.Runtime.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Newtonsoft.Json.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\System.Web.Optimization.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\WebGrease.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\System.Web.Optimization.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Newtonsoft.Json.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\obj\Debug\Donationwebsite.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\obj\Debug\Donationwebsite.dll
+C:\Users\Alina\Documents\GitHub\Website\Donationwebsite\obj\Debug\Donationwebsite.pdb
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\ApplicationInsights.config
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\csc.exe
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\csc.exe.config
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\csc.rsp
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\csi.exe
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\csi.rsp
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\vbc.exe
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\vbc.exe.config
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\vbc.rsp
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Donationwebsite.dll.config
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Donationwebsite.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Donationwebsite.pdb
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Antlr3.Runtime.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Newtonsoft.Json.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\System.Web.Optimization.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\WebGrease.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\System.Web.Optimization.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Newtonsoft.Json.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\obj\Debug\Donationwebsite.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\obj\Debug\Donationwebsite.dll
+C:\Users\Alina\Documents\GitHub\Websiteforbagrut\Donationwebsite\obj\Debug\Donationwebsite.pdb
